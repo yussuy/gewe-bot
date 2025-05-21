@@ -1,6 +1,6 @@
 # gewe-bot
 
-通过[gewe](https://github.com/Devo919/Gewechat)（已archived）和gewe-python实现特定的定时推送任务，并通过天气相关接口，获取天气信息，用于拼接信息。
+通过[gewe](https://github.com/Devo919/Gewechat)（已archived）和[gewe-python](https://github.com/hanfangyuan4396/gewechat-python) 实现特定的定时推送任务，并通过天气相关接口，获取天气信息，用于拼接信息。
 
 
 ## 关键代码：
